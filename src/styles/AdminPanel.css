@@ -1,0 +1,31 @@
+.admin-panel {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.admin-panel h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.admin-panel table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.admin-panel th, .admin-panel td {
+  padding: 12px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.admin-panel button {
+  padding: 6px 12px;
+  background: #007bff;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
